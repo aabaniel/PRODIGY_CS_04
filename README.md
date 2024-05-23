@@ -6,6 +6,7 @@ The program is meant as a simple Keylogger.
 USE AT YOUR OWN RISK !!!!
 
 To use:
+
 Out of program:
 1. Open CMD
 2. Input "py -m pip install pynput"
